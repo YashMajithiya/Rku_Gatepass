@@ -2,7 +2,7 @@
 
 ## Overview
 Hello All,
-I Have developed an web-Application dashboard for the Rk university in which the students of hostel can easily get the gatepass for going outside the hostel, here I have made a dashboard in which when the students of the hostel when they go outside the hostel their entry time and exit time can easily be managed and it's also role based so admin, staff all eill have their own permissions and limitations in the dashboad. The database I have used is MySql and web App is developed using Laravel-8, PHP, HTML and CSS.
+I Have developed an web-Application dashboard for the Rk university in which the students of hostel can easily get the gatepass for going outside the hostel, here I have made a dashboard in which when the students of the hostel when they go outside the hostel their entry time and exit time can easily be managed and it's also role based so admin, staff all eill have their own permissions and limitations in the dashboard. The database I have used is MySql and web App is developed using Laravel-8, PHP, HTML and CSS.
 
 ## Installation
 - Enter Commands: 
